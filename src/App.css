@@ -98,11 +98,12 @@ a {
 
 .menu{
   background-color: rgb(236,236,236);
-  width: 240%;
-  height: 65%;
+  max-width: 100%;
+  /* height: 65%; */
   padding: 1rem;
 }
 
 .navigation{
   padding: 1rem;
+ width: 100%;
 }
